@@ -1,8 +1,8 @@
 # Blockchain Project
 HDip Blockchain <br>
-Name: Joshua Cassidy
-Student Number: ...
-Module: Blockchain Applcation Development
+Name: Joshua Cassidy <br>
+Student Number: ... <br>
+Module: Blockchain Applcation Development <br>
 
 # Project Dependencies
 1. Node.js
